@@ -1,6 +1,7 @@
 
 body{
   background-image:url(../img/colors.png);
+  background-attachment: fixed;
   margin: 10px;
 }
 
@@ -23,6 +24,10 @@ body{
   font-family: cursive;
 }
 
+#about{
+  margin-left: 20px;
+}
+
 #garnett{
   float: right;
   margin: 12px;
@@ -35,7 +40,7 @@ body{
 }
 
 .panel{
-opacity: 0.8;
+opacity: 0.9;
 }
 #background{
   font-family: sans-serif;
