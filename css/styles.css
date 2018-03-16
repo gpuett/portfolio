@@ -8,10 +8,18 @@ h1{
 #garnett{
   float: right;
   margin: 12px;
+  margin-top: 50px;
   border: 2px solid black;
+}
+
+#hobby{
+
+}
+
+#skill{
+  
 }
 
 li{
   list-style: none;
-  text-indent: 0px;
 }

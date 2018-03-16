@@ -1,20 +1,17 @@
-# _{Application Name}_
+# _Garnett's Portfolio_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Git, HTML, and CSS Project, 03.16.2018_
 
-#### By _**{List of contributors}**_
+#### By _**Garnett Puett**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This is a web page that acts as both a portfolio of my projects for my first week at Epicodus as well as a resume for any github users to view._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Open browser and travel to_ <a href='github.com'>Github</a>
+
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
