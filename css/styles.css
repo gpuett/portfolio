@@ -25,18 +25,17 @@ body{
 }
 
 #about{
-  margin-left: 20px;
+  margin: 20px;
 }
 
 #garnett{
-  float: right;
-  margin: 12px;
-  margin-top: 50px;
+  margin-top: 15px;
+  float: left;
   border: 2px solid black;
   width: 100%;
   height: auto;
-  max-width: 460px;
-  max-height: 460px;
+  max-width: 400px;
+  max-height: 400px;;
 }
 
 .panel{
@@ -65,10 +64,12 @@ ul{
   background-color: lavenderblush;
 }
 
+
+
 @media screen and (max-width: 989px){
   #garnett{
-    margin-left: 200px;
-    margin-bottom: 100px;
+    float: right;
+    margin-right: 20px;
     width: 60%;
     height: 60%;
   }
