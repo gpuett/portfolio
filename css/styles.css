@@ -12,12 +12,16 @@ h1{
   border: 2px solid black;
 }
 
+#background{
+  font-family: sans-serif;
+}
+
 #hobby{
 
 }
 
 #skill{
-  
+
 }
 
 li{

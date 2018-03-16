@@ -19,7 +19,7 @@ _No known issues._
 
 ## Support and contact details
 
-_If you experience any issues with my page, feel free to contact me at <a href='mailto:gpuett@gmail.com'>my email</a>_
+_If you experience any issues with my page, feel free to contact me at <a href='mailto:gpuett@gmail.com'>my email.</a>_
 
 ## Technologies Used
 
