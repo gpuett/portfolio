@@ -4,6 +4,10 @@ h1{
   font-style: oblique;
 }
 
+.first{
+  font-weight:600;
+  font-family: cursive;
+}
 
 #garnett{
   float: right;
@@ -18,9 +22,17 @@ h1{
   font-family: sans-serif;
 }
 
-li{
+#projects{
+  background-color: lavenderblush;
+}
+
+ul{
   list-style: none;
   text-decoration: underline;
+}
+
+ol.projects{
+  list-style:decimal;
 }
 
 #hobby{
