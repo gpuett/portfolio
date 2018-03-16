@@ -10,10 +10,17 @@ h1{
   margin: 12px;
   margin-top: 50px;
   border: 2px solid black;
+  max-width: 460px;
+  max-height: 460px;
 }
 
 #background{
   font-family: sans-serif;
+}
+
+li{
+  list-style: none;
+  text-decoration: underline;
 }
 
 #hobby{
@@ -24,6 +31,27 @@ h1{
 
 }
 
-li{
-  list-style: none;
+@media screen and (max-width: 990px){
+  #garnett{
+    margin-left: 200px;
+    margin-bottom: 100px;
+    float:none;
+    width: 50%;
+    height: 50%;
+  }
+}
+
+@media screen and (min-width: 990px){
+  #garnett{
+    width: 80%;
+    height: 80%;
+  }
+}
+
+
+@media screen and (min-width: 1100px){
+  #garnett{
+    width: 90%;
+    height: 90%;
+  }
 }
