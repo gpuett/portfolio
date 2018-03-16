@@ -5,7 +5,13 @@ body{
 
 .jumbotron h1{
   text-align: center;
-  color: purple;
+  color: maroon;
+  font-family: palatino;
+}
+
+.jumbotron{
+  margin-top: 15px;
+  background-color: azure;
 }
 
 .first{
@@ -27,6 +33,7 @@ opacity: 0.8;
 }
 #background{
   font-family: sans-serif;
+  opacity: 0.9;
 }
 
 #projects{
@@ -35,22 +42,16 @@ opacity: 0.8;
 
 ul{
   list-style: none;
-  text-decoration: underline;
 }
 
 ol.projects{
   list-style:decimal;
 }
 
-
-
-#hobby{
-text-indent: none;
+.panel-body{
+  padding-bottom: 5px;
 }
 
-#skill{
-
-}
 
 
 @media screen and (max-width: 990px){
