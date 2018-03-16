@@ -23,7 +23,7 @@ _If you experience any issues with my page, feel free to contact me at <a href='
 
 ## Technologies Used
 
-_This webpage was made using exclusively HTML and CSS._
+_This webpage was made exclusively in HTML and CSS._
 
 ### License
 

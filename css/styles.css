@@ -1,7 +1,11 @@
 
-h1{
+body{
+  background-image:url(../img/colors.png);
+}
+
+.jumbotron h1{
   text-align: center;
-  font-style: oblique;
+  color: purple;
 }
 
 .first{
@@ -35,13 +39,16 @@ ol.projects{
   list-style:decimal;
 }
 
-#hobby{
 
+
+#hobby{
+text-indent: none;
 }
 
 #skill{
 
 }
+
 
 @media screen and (max-width: 990px){
   #garnett{
