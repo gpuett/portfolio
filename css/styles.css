@@ -1,17 +1,21 @@
 
 body{
   background-image:url(../img/colors.png);
+  margin: 10px;
 }
+
 
 .jumbotron h1{
   text-align: center;
   color: maroon;
   font-family: palatino;
+  padding: 10px;
+  font-weight: 600;
 }
 
 .jumbotron{
-  margin-top: 15px;
-  background-color: azure;
+  padding: 10px;
+  background-color: silver;
 }
 
 .first{
@@ -36,6 +40,7 @@ opacity: 0.8;
   opacity: 0.9;
 }
 
+
 #projects{
   background-color: lavenderblush;
 }
@@ -44,23 +49,21 @@ ul{
   list-style: none;
 }
 
-ol.projects{
-  list-style:decimal;
-}
 
 .panel-body{
   padding-bottom: 5px;
 }
 
+#quote{
+  background-color: lavenderblush;
+}
 
-
-@media screen and (max-width: 990px){
+@media screen and (max-width: 989px){
   #garnett{
     margin-left: 200px;
     margin-bottom: 100px;
-    float:none;
-    width: 50%;
-    height: 50%;
+    width: 60%;
+    height: 60%;
   }
 }
 
