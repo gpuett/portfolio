@@ -10,7 +10,7 @@ _This is a web page that acts as both a portfolio of my projects for my first we
 
 ## Setup/Installation Requirements
 
-* _Open browser and travel to_ <a href='gpuett.github.io/portfolio'>My Github Portfolio</a>
+* _Open browser and travel to_ <a href='https://gpuett.github.io/portfolio'>My Github Portfolio</a>
 
 
 ## Known Bugs
